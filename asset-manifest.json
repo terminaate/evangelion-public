@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/evangelion-public/static/css/main.132bd017.css",
+    "main.js": "/evangelion-public/static/js/main.9619b64b.js",
+    "static/media/eva0.png": "/evangelion-public/static/media/eva0.f3ff84b9cc4ce779f801.png",
+    "static/media/SFUIDisplay.ttf": "/evangelion-public/static/media/SFUIDisplay.fb1826d2ed3f20c58a51.ttf",
+    "static/media/NeueMontreal.otf": "/evangelion-public/static/media/NeueMontreal.15b1070b8dac57958acf.otf",
+    "static/media/HelveticaNeueCyr.otf": "/evangelion-public/static/media/HelveticaNeueCyr.c0307693e561e43cb5c0.otf",
+    "static/media/logo.svg": "/evangelion-public/static/media/logo.a742872ee8a3b111c01ea624d248948e.svg",
+    "index.html": "/evangelion-public/index.html",
+    "main.132bd017.css.map": "/evangelion-public/static/css/main.132bd017.css.map",
+    "main.9619b64b.js.map": "/evangelion-public/static/js/main.9619b64b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.132bd017.css",
+    "static/js/main.9619b64b.js"
+  ]
+}
